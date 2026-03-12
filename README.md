@@ -24,11 +24,25 @@ To design low-fidelity wireframes for a generic application using **Balsamiq**, 
 
 The following wireframe screens were designed:
 
-- Welcome / Splash Screen  
-- Login / Signup Screen  
-- Home / Dashboard Screen  
-- Content / Product Listing Screen  
+- Welcome / Splash Screen
+  
+<img width="577" height="720" alt="image" src="https://github.com/user-attachments/assets/8cbc4409-ab4d-46e7-9d87-3fd81b9545bb" />
+
+- Login / Signup Screen
+
+<img width="567" height="680" alt="image" src="https://github.com/user-attachments/assets/0706f87f-7d86-4683-9c44-0ce21729fd99" />
+  
+- Home / Dashboard Screen
+
+<img width="551" height="683" alt="image" src="https://github.com/user-attachments/assets/5888f32c-1a38-45a4-80ba-f300e559f761" />
+
+- Content / Product Listing Screen
+
+<img width="540" height="680" alt="image" src="https://github.com/user-attachments/assets/c4ef7c78-98a1-4dcc-8ce1-0324c26735ff" />
+
 - Checkout / Final Action Screen  
+
+<img width="545" height="782" alt="image" src="https://github.com/user-attachments/assets/3ce37b12-02bd-4ee7-8326-810e2e1deeae" />
 
 ---
 
